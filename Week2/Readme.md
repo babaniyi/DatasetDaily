@@ -8,7 +8,8 @@ Economic variables and Recession Modelling
 - How is the financial sector by government policies?
 - How is the government affected by a downturn in the economy?
 - How do we know when an economy is booming?
-- 
-PART B: Modelling and Estimation
+
+## PART B: Modelling and Estimation
+
 Compare different models for recession prediction, focusing on methods from the field of Machine Learning (ML).
 
