@@ -6,8 +6,9 @@ Build a model that acts as a filter or auto-moderator for toxic and hateful comm
 
 1. Data cleaning
   
-  A. Removing unwanted characters
-  B. Removing stopwords
-  C. Lemmatization
+- Removing unwanted characters
+- Removing stopwords
+- Lemmatization
+  
   
 2. Feature engineering - Including new features such as number of words and part of speech.
